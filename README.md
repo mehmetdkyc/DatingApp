@@ -1,1 +1,1 @@
-Angularjs öğrenmek için eğitim videosunda öğrendiklerimi uyguladım proje.
+Angularjs öğrenmek için eğitim videosunda öğrendiklerimi uyguladığım proje.
